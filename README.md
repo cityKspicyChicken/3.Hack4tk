@@ -8,7 +8,7 @@ the 0.5 version is the original demo, which we build the rough demo during the 3
 
 the demo is used to show you how to detect the state and count the amount of coils in the work places. the recently functions are 
 
-1. differ the single coil from the coil stack
+1. distinguish the single coil from the coil stack
 2. count the amount of all the single coil 
 
 an example illustrate like follows:
