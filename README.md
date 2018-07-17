@@ -11,7 +11,7 @@ the demo is used to show you how to detect the state and count the amount of coi
 1. distinguish the single coil from the coil stack
 2. count the amount of all the single coils
 
-an example illustrate like follows:
+an example illustrate as follows:
 
 ![Hack4Tk](/Hack4tk2018/0.5_Ver_DronedetectorDemo/1.png) 
 ![Hack4Tk](/Hack4tk2018/0.5_Ver_DronedetectorDemo/2.png) 
